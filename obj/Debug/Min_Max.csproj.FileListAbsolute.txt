@@ -1,0 +1,7 @@
+C:\Users\vecseizs\Gitwork\Min_Max\bin\Debug\Min_Max.exe.config
+C:\Users\vecseizs\Gitwork\Min_Max\bin\Debug\Min_Max.exe
+C:\Users\vecseizs\Gitwork\Min_Max\bin\Debug\Min_Max.pdb
+C:\Users\vecseizs\Gitwork\Min_Max\obj\Debug\Min_Max.csproj.AssemblyReference.cache
+C:\Users\vecseizs\Gitwork\Min_Max\obj\Debug\Min_Max.csproj.CoreCompileInputs.cache
+C:\Users\vecseizs\Gitwork\Min_Max\obj\Debug\Min_Max.exe
+C:\Users\vecseizs\Gitwork\Min_Max\obj\Debug\Min_Max.pdb
